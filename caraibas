@@ -1,0 +1,1883 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Serviços | Caraíbas Consultoria em Licitação</title>
+  <meta name="description" content="Veja os serviços da Caraíbas para empresas que querem iniciar no mercado público com mais preparo, segurança documental e estratégia.">
+  <meta name="theme-color" content="#183C34">
+  <link rel="canonical" href="https://SEU-DOMINIO.com/servicos.html">
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="site.webmanifest">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="pt_BR">
+  <meta property="og:title" content="Serviços | Caraíbas Consultoria em Licitação">
+  <meta property="og:description" content="Veja os serviços da Caraíbas para empresas que querem iniciar no mercado público com mais preparo, segurança documental e estratégia.">
+  <meta property="og:image" content="https://SEU-DOMINIO.com/assets/img/og-cover.svg">
+  <meta property="og:url" content="https://SEU-DOMINIO.com/servicos.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Serviços | Caraíbas Consultoria em Licitação">
+  <meta name="twitter:description" content="Veja os serviços da Caraíbas para empresas que querem iniciar no mercado público com mais preparo, segurança documental e estratégia.">
+  <meta name="twitter:image" content="https://SEU-DOMINIO.com/assets/img/og-cover.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body data-page="servicos">
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="logo" href="index.html" aria-label="Ir para a página inicial da Caraíbas">
+      <span class="logo-mark"><img src="assets/img/logo-monograma.svg" alt="Monograma Caraíbas"></span>
+      <span class="logo-text"><strong>Caraíbas</strong><span>Consultoria em Licitação</span></span>
+    </a>
+
+    <button class="menu-toggle" type="button" aria-label="Abrir menu" aria-expanded="false" data-menu-toggle>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M4 7h16"></path><path d="M4 12h16"></path><path d="M4 17h16"></path></svg>
+    </button>
+
+    <nav class="nav" data-nav>
+      <ul class="nav-list">
+        <li><a href="index.html" data-page-link="home">Home</a></li>
+<li><a href="sobre.html" data-page-link="sobre">Sobre</a></li>
+<li><a href="servicos.html" data-page-link="servicos">Serviços</a></li>
+<li><a href="depoimentos.html" data-page-link="depoimentos">Depoimentos</a></li>
+<li><a href="faq.html" data-page-link="faq">FAQ</a></li>
+<li><a href="contato.html" data-page-link="contato">Contato</a></li>
+      </ul>
+      <div class="nav-cta">
+        <a class="btn btn-secondary" href="contato.html">Solicitar contato</a>
+      </div>
+    </nav>
+
+    <a class="btn btn-primary" href="#" data-wa data-wa-message="Olá! Vim pelo site da Caraíbas e quero entender como minha empresa pode começar a vender para o governo.">
+      Falar no WhatsApp <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"></path><path d="m13 5 7 7-7 7"></path></svg>
+    </a>
+  </div>
+</header>
+
+<main>
+  <section class="page-hero">
+    <div class="container page-hero-grid">
+      <div class="reveal">
+        <span class="eyebrow">Serviços</span>
+        <h1>Serviços pensados para reduzir insegurança e organizar a entrada da sua empresa em licitações.</h1>
+        <p>
+          Cada frente de atuação foi escrita para falar com o empresário que ainda não vende para o governo e precisa de orientação prática, suporte técnico e direção estratégica.
+        </p>
+      </div>
+      <aside class="hero-panel reveal">
+        <h2>Formato ideal para começar</h2>
+        <p>A combinação entre diagnóstico, organização documental e leitura estratégica costuma ser o caminho mais seguro para quem está no início.</p>
+        <ul>
+          <li>Atendimento consultivo</li>
+          <li>Sem backend complexo no site</li>
+          <li>Captação direta via WhatsApp</li>
+          <li>Estrutura simples de manter</li>
+        </ul>
+      </aside>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container grid-3">
+      <article class="card service-card reveal">
+        <div class="card-top">
+          <div class="card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m21 21-4.3-4.3"></path></svg></div>
+          <span class="card-tag">Etapa inicial</span>
+        </div>
+        <h3>Diagnóstico de entrada</h3>
+        <p>Mapeamento da situação atual da empresa, das exigências iniciais e do caminho mais coerente para iniciar no mercado público.</p>
+        <ul class="check-list">
+          <li>Leitura do cenário da empresa</li>
+          <li>Identificação de lacunas</li>
+          <li>Priorização dos próximos passos</li>
+        </ul>
+        <a class="btn btn-accent" href="contato.html?servico=Diagnóstico%20de%20entrada">Solicitar contato</a>
+      </article>
+
+      <article class="card service-card reveal">
+        <div class="card-top">
+          <div class="card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"></path><path d="M14 3v5h5"></path><path d="M9 13h6"></path><path d="M9 17h6"></path></svg></div>
+          <span class="card-tag">Base operacional</span>
+        </div>
+        <h3>Estruturação cadastral e documental</h3>
+        <p>Organização da base necessária para a empresa começar com mais segurança e menos retrabalho.</p>
+        <ul class="check-list">
+          <li>Checklist documental</li>
+          <li>Orientação cadastral</li>
+          <li>Redução de falhas evitáveis</li>
+        </ul>
+        <a class="btn btn-accent" href="contato.html?servico=Estruturação%20cadastral%20e%20documental">Solicitar contato</a>
+      </article>
+
+      <article class="card service-card reveal">
+        <div class="card-top">
+          <div class="card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 3v18h18"></path><path d="m7 14 3-3 3 2 5-6"></path></svg></div>
+          <span class="card-tag">Decisão</span>
+        </div>
+        <h3>Análise de edital e viabilidade</h3>
+        <p>Leitura técnica de oportunidade para entender aderência, riscos, exigências e estratégia de participação.</p>
+        <ul class="check-list">
+          <li>Interpretação do edital</li>
+          <li>Avaliação de viabilidade</li>
+          <li>Mais clareza para decidir</li>
+        </ul>
+        <a class="btn btn-accent" href="contato.html?servico=An%C3%A1lise%20de%20edital%20e%20viabilidade">Solicitar contato</a>
+      </article>
+
+      <article class="card service-card reveal">
+        <div class="card-top">
+          <div class="card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="8"></circle><circle cx="12" cy="12" r="3"></circle><path d="M12 2v2"></path><path d="M22 12h-2"></path><path d="M12 22v-2"></path><path d="M2 12h2"></path></svg></div>
+          <span class="card-tag">Posicionamento</span>
+        </div>
+        <h3>Estratégia de participação</h3>
+        <p>Apoio para definir onde faz sentido competir, como se posicionar e como entrar com mais coerência.</p>
+        <ul class="check-list">
+          <li>Leitura de cenário</li>
+          <li>Priorização de oportunidades</li>
+          <li>Menos ação por impulso</li>
+        </ul>
+        <a class="btn btn-accent" href="contato.html?servico=Estrat%C3%A9gia%20de%20participa%C3%A7%C3%A3o">Solicitar contato</a>
+      </article>
+
+      <article class="card service-card reveal">
+        <div class="card-top">
+          <div class="card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l7 3v5c0 5-3.5 8.5-7 10-3.5-1.5-7-5-7-10V6l7-3Z"></path><path d="m9.5 12 1.8 1.8L15 10"></path></svg></div>
+          <span class="card-tag">Acompanhamento</span>
+        </div>
+        <h3>Suporte consultivo no processo</h3>
+        <p>Acompanhamento próximo para reduzir insegurança e orientar a empresa ao longo das etapas mais sensíveis.</p>
+        <ul class="check-list">
+          <li>Direção técnica</li>
+          <li>Apoio contínuo</li>
+          <li>Tomada de decisão assistida</li>
+        </ul>
+        <a class="btn btn-accent" href="contato.html?servico=Suporte%20consultivo%20no%20processo">Solicitar contato</a>
+      </article>
+
+      <article class="card service-card reveal">
+        <div class="card-top">
+          <div class="card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M22 21v-2a4 4 0 0 0-3-3.9"></path><path d="M16 3.1a4 4 0 0 1 0 7.8"></path></svg></div>
+          <span class="card-tag">Continuidade</span>
+        </div>
+        <h3>Consultoria recorrente</h3>
+        <p>Modelo para empresas que desejam apoio continuado, com mais consistência, previsibilidade e maturidade de atuação.</p>
+        <ul class="check-list">
+          <li>Rotina consultiva</li>
+          <li>Visão mais estratégica</li>
+          <li>Acompanhamento recorrente</li>
+        </ul>
+        <a class="btn btn-accent" href="contato.html?servico=Consultoria%20recorrente">Solicitar contato</a>
+      </article>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container split">
+      <div class="section-head reveal">
+        <span class="kicker">Como escolher</span>
+        <h2>Nem toda empresa precisa começar do mesmo ponto.</h2>
+        <p>
+          Algumas precisam primeiro entender viabilidade. Outras já precisam estruturar documentação ou analisar uma oportunidade específica. O melhor formato depende do estágio atual do negócio.
+        </p>
+      </div>
+      <div class="panel reveal">
+        <span class="eyebrow">Sinal simples</span>
+        <ul class="check-list" style="margin-top:18px;">
+          <li>Se você ainda não sabe por onde começar: diagnóstico de entrada.</li>
+          <li>Se o problema é organização: estruturação cadastral e documental.</li>
+          <li>Se há um edital em vista: análise de edital e viabilidade.</li>
+          <li>Se a empresa quer suporte próximo: acompanhamento consultivo.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="cta-band reveal">
+        <span class="kicker" style="color:#d3c5a4;">Atendimento comercial</span>
+        <h2>Explique seu momento e receba uma orientação inicial pelo WhatsApp.</h2>
+        <p>
+          A forma mais simples de começar é abrir uma conversa e mostrar o estágio da sua empresa, sua dúvida principal e o tipo de apoio que você procura.
+        </p>
+        <div class="btn-group">
+          <a class="btn btn-primary" href="#" data-wa data-wa-message="Olá! Quero ajuda para escolher o serviço mais adequado para minha empresa.">
+            Falar no WhatsApp <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"></path><path d="m13 5 7 7-7 7"></path></svg>
+          </a>
+          <a class="btn btn-secondary" href="contato.html">Abrir formulário</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <a class="logo" href="index.html" aria-label="Ir para a página inicial da Caraíbas">
+          <span class="logo-mark"><img src="assets/img/logo-monograma.svg" alt="Monograma Caraíbas"></span>
+          <span class="logo-text"><strong>Caraíbas</strong><span>Consultoria em Licitação</span></span>
+        </a>
+        <p class="subtle" style="max-width:620px;margin:18px 0 0;">
+          Consultoria em licitação para empresas que querem iniciar sua atuação no mercado público com mais segurança, clareza documental e direção estratégica.
+        </p>
+      </div>
+      <div>
+        <div class="footer-links">
+          <a href="sobre.html">Sobre</a>
+          <a href="servicos.html">Serviços</a>
+          <a href="depoimentos.html">Depoimentos</a>
+          <a href="faq.html">FAQ</a>
+          <a href="contato.html">Contato</a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-meta">
+      <span>© <span data-current-year></span> Caraíbas. Todos os direitos reservados.</span>
+      <span>Site estático, rápido e responsivo para Cloudflare Pages.</span>
+    </div>
+  </div>
+</footer>
+
+<div class="wa-float">
+  <a href="#" aria-label="Abrir conversa no WhatsApp" data-wa>
+    <img src="assets/icons/whatsapp.svg" alt="">
+  </a>
+</div>
+
+<script src="assets/js/main.js"></script>
+</body>
+</html>
+
+{
+  "name": "Caraíbas Consultoria em Licitação",
+  "short_name": "Caraíbas",
+  "description": "Consultoria em licitação para empresas que querem começar a vender para o governo com segurança.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F4F0E7",
+  "theme_color": "#183C34",
+  "icons": [
+    {
+      "src": "/assets/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://SEU-DOMINIO.com/</loc></url>
+  <url><loc>https://SEU-DOMINIO.com/sobre.html</loc></url>
+  <url><loc>https://SEU-DOMINIO.com/servicos.html</loc></url>
+  <url><loc>https://SEU-DOMINIO.com/depoimentos.html</loc></url>
+  <url><loc>https://SEU-DOMINIO.com/faq.html</loc></url>
+  <url><loc>https://SEU-DOMINIO.com/contato.html</loc></url>
+</urlset>
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sobre a Caraíbas | Consultoria em Licitação</title>
+  <meta name="description" content="Conheça a Caraíbas, consultoria em licitação com posicionamento premium, linguagem clara e foco em segurança para empresas que querem vender ao governo.">
+  <meta name="theme-color" content="#183C34">
+  <link rel="canonical" href="https://SEU-DOMINIO.com/sobre.html">
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="site.webmanifest">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="pt_BR">
+  <meta property="og:title" content="Sobre a Caraíbas | Consultoria em Licitação">
+  <meta property="og:description" content="Conheça a Caraíbas, consultoria em licitação com posicionamento premium, linguagem clara e foco em segurança para empresas que querem vender ao governo.">
+  <meta property="og:image" content="https://SEU-DOMINIO.com/assets/img/og-cover.svg">
+  <meta property="og:url" content="https://SEU-DOMINIO.com/sobre.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Sobre a Caraíbas | Consultoria em Licitação">
+  <meta name="twitter:description" content="Conheça a Caraíbas, consultoria em licitação com posicionamento premium, linguagem clara e foco em segurança para empresas que querem vender ao governo.">
+  <meta name="twitter:image" content="https://SEU-DOMINIO.com/assets/img/og-cover.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body data-page="sobre">
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="logo" href="index.html" aria-label="Ir para a página inicial da Caraíbas">
+      <span class="logo-mark"><img src="assets/img/logo-monograma.svg" alt="Monograma Caraíbas"></span>
+      <span class="logo-text"><strong>Caraíbas</strong><span>Consultoria em Licitação</span></span>
+    </a>
+
+    <button class="menu-toggle" type="button" aria-label="Abrir menu" aria-expanded="false" data-menu-toggle>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M4 7h16"></path><path d="M4 12h16"></path><path d="M4 17h16"></path></svg>
+    </button>
+
+    <nav class="nav" data-nav>
+      <ul class="nav-list">
+        <li><a href="index.html" data-page-link="home">Home</a></li>
+<li><a href="sobre.html" data-page-link="sobre">Sobre</a></li>
+<li><a href="servicos.html" data-page-link="servicos">Serviços</a></li>
+<li><a href="depoimentos.html" data-page-link="depoimentos">Depoimentos</a></li>
+<li><a href="faq.html" data-page-link="faq">FAQ</a></li>
+<li><a href="contato.html" data-page-link="contato">Contato</a></li>
+      </ul>
+      <div class="nav-cta">
+        <a class="btn btn-secondary" href="contato.html">Solicitar contato</a>
+      </div>
+    </nav>
+
+    <a class="btn btn-primary" href="#" data-wa data-wa-message="Olá! Vim pelo site da Caraíbas e quero entender como minha empresa pode começar a vender para o governo.">
+      Falar no WhatsApp <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"></path><path d="m13 5 7 7-7 7"></path></svg>
+    </a>
+  </div>
+</header>
+
+<main>
+  <section class="page-hero">
+    <div class="container page-hero-grid">
+      <div class="reveal">
+        <span class="eyebrow">Sobre a marca</span>
+        <h1>Uma consultoria pensada para transformar complexidade licitatória em decisões seguras.</h1>
+        <p>
+          A Caraíbas nasce com um posicionamento técnico, sóbrio e estratégico para atender empresas que precisam de clareza, método e confiança ao entrar no mercado público.
+        </p>
+      </div>
+      <aside class="hero-panel reveal">
+        <h2>O que a marca precisa transmitir</h2>
+        <p>Conhecimento técnico, visão estratégica, controle, credibilidade e liderança em um tom elegante e sem excesso.</p>
+        <ul>
+          <li>Autoridade sem arrogância</li>
+          <li>Elegância sem excesso</li>
+          <li>Técnica sem frieza</li>
+          <li>Segurança e organização</li>
+        </ul>
+      </aside>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container split">
+      <div class="section-head reveal">
+        <span class="kicker">Posicionamento</span>
+        <h2>A Caraíbas foi desenhada para parecer uma marca que domina o processo, lê cenários com clareza e conduz decisões com segurança.</h2>
+        <p>
+          Esse posicionamento é especialmente importante para um público que ainda não vende para o governo. O cliente precisa sentir, desde o primeiro contato, que está diante de uma consultoria organizada, seletiva e confiável.
+        </p>
+      </div>
+      <div class="panel reveal">
+        <span class="eyebrow">Essência da atuação</span>
+        <ul class="check-list" style="margin-top:18px;">
+          <li>Traduzir o processo licitatório em passos compreensíveis e executáveis.</li>
+          <li>Reduzir a sensação de risco que costuma bloquear a tomada de decisão.</li>
+          <li>Combinar rigor técnico com atendimento consultivo e linguagem clara.</li>
+          <li>Construir percepção de valor por método, precisão e segurança transmitida.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head reveal">
+        <span class="kicker">Diferenciais</span>
+        <h2>Um discurso institucional premium, sem ostentação visual e sem promessas vazias.</h2>
+        <p>
+          O site e a presença da Caraíbas foram pensados para gerar credibilidade por sobriedade, clareza e consistência visual.
+        </p>
+      </div>
+      <div class="grid-4">
+        <article class="card reveal">
+          <div class="card-top">
+            <div class="card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m12 2 1.6 4.4L18 8l-4.4 1.6L12 14l-1.6-4.4L6 8l4.4-1.6L12 2Z"></path><path d="m19 14 .9 2.1L22 17l-2.1.9L19 20l-.9-2.1L16 17l2.1-.9L19 14Z"></path><path d="m5 14 .9 2.1L8 17l-2.1.9L5 20l-.9-2.1L2 17l2.1-.9L5 14Z"></path></svg></div>
+          </div>
+          <h3>Sobriedade</h3>
+          <p>O premium deste segmento está no cuidado, no respiro visual e na precisão.</p>
+        </article>
+        <article class="card reveal">
+          <div class="card-top">
+            <div class="card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l7 3v5c0 5-3.5 8.5-7 10-3.5-1.5-7-5-7-10V6l7-3Z"></path><path d="m9.5 12 1.8 1.8L15 10"></path></svg></div>
+          </div>
+          <h3>Segurança</h3>
+          <p>O visitante sente que existe método, controle e acompanhamento técnico.</p>
+        </article>
+        <article class="card reveal">
+          <div class="card-top">
+            <div class="card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 3v18h18"></path><path d="m7 14 3-3 3 2 5-6"></path></svg></div>
+          </div>
+          <h3>Estratégia</h3>
+          <p>Licitação não é tratada como burocracia isolada, mas como decisão de posicionamento comercial.</p>
+        </article>
+        <article class="card reveal">
+          <div class="card-top">
+            <div class="card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M22 21v-2a4 4 0 0 0-3-3.9"></path><path d="M16 3.1a4 4 0 0 1 0 7.8"></path></svg></div>
+          </div>
+          <h3>Condução</h3>
+          <p>Empresas sem experiência anterior precisam de direção clara, não de excesso de jargão.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container grid-2">
+      <div class="quote reveal">
+        <p>“A inteligência estratégica que transforma complexidade licitatória em decisões seguras.”</p>
+        <small>Frase central para orientar o tom institucional da Caraíbas.</small>
+      </div>
+      <div class="panel reveal">
+        <span class="eyebrow">Para quem é</span>
+        <ul class="check-list" style="margin-top:18px;">
+          <li>Empresários que ainda não vendem para o governo.</li>
+          <li>Empresas que querem entender se estão prontas para começar.</li>
+          <li>Negócios que buscam mais segurança documental e mais clareza de decisão.</li>
+          <li>Clientes que valorizam atendimento sério, rápido e bem apresentado.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="cta-band reveal">
+        <span class="kicker" style="color:#d3c5a4;">Conversa inicial</span>
+        <h2>Quer entender como a Caraíbas pode estruturar sua entrada no mercado público?</h2>
+        <p>
+          Fale com a equipe pelo WhatsApp e comece com um atendimento que já transmite clareza, método e direção.
+        </p>
+        <div class="btn-group">
+          <a class="btn btn-primary" href="#" data-wa data-wa-message="Olá! Quero conhecer melhor a Caraíbas e entender como funciona a consultoria.">
+            Falar no WhatsApp <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"></path><path d="m13 5 7 7-7 7"></path></svg>
+          </a>
+          <a class="btn btn-secondary" href="servicos.html">Ver serviços</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <a class="logo" href="index.html" aria-label="Ir para a página inicial da Caraíbas">
+          <span class="logo-mark"><img src="assets/img/logo-monograma.svg" alt="Monograma Caraíbas"></span>
+          <span class="logo-text"><strong>Caraíbas</strong><span>Consultoria em Licitação</span></span>
+        </a>
+        <p class="subtle" style="max-width:620px;margin:18px 0 0;">
+          Consultoria em licitação para empresas que querem iniciar sua atuação no mercado público com mais segurança, clareza documental e direção estratégica.
+        </p>
+      </div>
+      <div>
+        <div class="footer-links">
+          <a href="sobre.html">Sobre</a>
+          <a href="servicos.html">Serviços</a>
+          <a href="depoimentos.html">Depoimentos</a>
+          <a href="faq.html">FAQ</a>
+          <a href="contato.html">Contato</a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-meta">
+      <span>© <span data-current-year></span> Caraíbas. Todos os direitos reservados.</span>
+      <span>Site estático, rápido e responsivo para Cloudflare Pages.</span>
+    </div>
+  </div>
+</footer>
+
+<div class="wa-float">
+  <a href="#" aria-label="Abrir conversa no WhatsApp" data-wa>
+    <img src="assets/icons/whatsapp.svg" alt="">
+  </a>
+</div>
+
+<script src="assets/js/main.js"></script>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Página não encontrada | Caraíbas</title>
+  <meta name="description" content="A página que você tentou acessar não foi encontrada. Volte para a Home da Caraíbas.">
+  <meta name="theme-color" content="#183C34">
+  <link rel="canonical" href="https://SEU-DOMINIO.com/404.html">
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="site.webmanifest">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="pt_BR">
+  <meta property="og:title" content="Página não encontrada | Caraíbas">
+  <meta property="og:description" content="A página que você tentou acessar não foi encontrada. Volte para a Home da Caraíbas.">
+  <meta property="og:image" content="https://SEU-DOMINIO.com/assets/img/og-cover.svg">
+  <meta property="og:url" content="https://SEU-DOMINIO.com/404.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Página não encontrada | Caraíbas">
+  <meta name="twitter:description" content="A página que você tentou acessar não foi encontrada. Volte para a Home da Caraíbas.">
+  <meta name="twitter:image" content="https://SEU-DOMINIO.com/assets/img/og-cover.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body data-page="404">
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="logo" href="index.html" aria-label="Ir para a página inicial da Caraíbas">
+      <span class="logo-mark"><img src="assets/img/logo-monograma.svg" alt="Monograma Caraíbas"></span>
+      <span class="logo-text"><strong>Caraíbas</strong><span>Consultoria em Licitação</span></span>
+    </a>
+
+    <button class="menu-toggle" type="button" aria-label="Abrir menu" aria-expanded="false" data-menu-toggle>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M4 7h16"></path><path d="M4 12h16"></path><path d="M4 17h16"></path></svg>
+    </button>
+
+    <nav class="nav" data-nav>
+      <ul class="nav-list">
+        <li><a href="index.html" data-page-link="home">Home</a></li>
+<li><a href="sobre.html" data-page-link="sobre">Sobre</a></li>
+<li><a href="servicos.html" data-page-link="servicos">Serviços</a></li>
+<li><a href="depoimentos.html" data-page-link="depoimentos">Depoimentos</a></li>
+<li><a href="faq.html" data-page-link="faq">FAQ</a></li>
+<li><a href="contato.html" data-page-link="contato">Contato</a></li>
+      </ul>
+      <div class="nav-cta">
+        <a class="btn btn-secondary" href="contato.html">Solicitar contato</a>
+      </div>
+    </nav>
+
+    <a class="btn btn-primary" href="#" data-wa data-wa-message="Olá! Vim pelo site da Caraíbas e quero entender como minha empresa pode começar a vender para o governo.">
+      Falar no WhatsApp <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"></path><path d="m13 5 7 7-7 7"></path></svg>
+    </a>
+  </div>
+</header>
+
+<main>
+  <section class="section">
+    <div class="container">
+      <div class="cta-band reveal text-center">
+        <span class="kicker" style="color:#d3c5a4;">Erro 404</span>
+        <h2>Esta página não foi encontrada.</h2>
+        <p class="centered">
+          Volte para a Home ou abra uma conversa no WhatsApp para seguir com o atendimento.
+        </p>
+        <div class="btn-group" style="justify-content:center;">
+          <a class="btn btn-primary" href="index.html">Ir para a Home</a>
+          <a class="btn btn-secondary" href="#" data-wa>Falar no WhatsApp</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <a class="logo" href="index.html" aria-label="Ir para a página inicial da Caraíbas">
+          <span class="logo-mark"><img src="assets/img/logo-monograma.svg" alt="Monograma Caraíbas"></span>
+          <span class="logo-text"><strong>Caraíbas</strong><span>Consultoria em Licitação</span></span>
+        </a>
+        <p class="subtle" style="max-width:620px;margin:18px 0 0;">
+          Consultoria em licitação para empresas que querem iniciar sua atuação no mercado público com mais segurança, clareza documental e direção estratégica.
+        </p>
+      </div>
+      <div>
+        <div class="footer-links">
+          <a href="sobre.html">Sobre</a>
+          <a href="servicos.html">Serviços</a>
+          <a href="depoimentos.html">Depoimentos</a>
+          <a href="faq.html">FAQ</a>
+          <a href="contato.html">Contato</a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-meta">
+      <span>© <span data-current-year></span> Caraíbas. Todos os direitos reservados.</span>
+      <span>Site estático, rápido e responsivo para Cloudflare Pages.</span>
+    </div>
+  </div>
+</footer>
+
+<div class="wa-float">
+  <a href="#" aria-label="Abrir conversa no WhatsApp" data-wa>
+    <img src="assets/icons/whatsapp.svg" alt="">
+  </a>
+</div>
+
+<script src="assets/js/main.js"></script>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contato | Caraíbas Consultoria em Licitação</title>
+  <meta name="description" content="Entre em contato com a Caraíbas e receba orientação inicial sobre como sua empresa pode começar a vender para o governo.">
+  <meta name="theme-color" content="#183C34">
+  <link rel="canonical" href="https://SEU-DOMINIO.com/contato.html">
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="site.webmanifest">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="pt_BR">
+  <meta property="og:title" content="Contato | Caraíbas Consultoria em Licitação">
+  <meta property="og:description" content="Entre em contato com a Caraíbas e receba orientação inicial sobre como sua empresa pode começar a vender para o governo.">
+  <meta property="og:image" content="https://SEU-DOMINIO.com/assets/img/og-cover.svg">
+  <meta property="og:url" content="https://SEU-DOMINIO.com/contato.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Contato | Caraíbas Consultoria em Licitação">
+  <meta name="twitter:description" content="Entre em contato com a Caraíbas e receba orientação inicial sobre como sua empresa pode começar a vender para o governo.">
+  <meta name="twitter:image" content="https://SEU-DOMINIO.com/assets/img/og-cover.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body data-page="contato">
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="logo" href="index.html" aria-label="Ir para a página inicial da Caraíbas">
+      <span class="logo-mark"><img src="assets/img/logo-monograma.svg" alt="Monograma Caraíbas"></span>
+      <span class="logo-text"><strong>Caraíbas</strong><span>Consultoria em Licitação</span></span>
+    </a>
+
+    <button class="menu-toggle" type="button" aria-label="Abrir menu" aria-expanded="false" data-menu-toggle>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M4 7h16"></path><path d="M4 12h16"></path><path d="M4 17h16"></path></svg>
+    </button>
+
+    <nav class="nav" data-nav>
+      <ul class="nav-list">
+        <li><a href="index.html" data-page-link="home">Home</a></li>
+<li><a href="sobre.html" data-page-link="sobre">Sobre</a></li>
+<li><a href="servicos.html" data-page-link="servicos">Serviços</a></li>
+<li><a href="depoimentos.html" data-page-link="depoimentos">Depoimentos</a></li>
+<li><a href="faq.html" data-page-link="faq">FAQ</a></li>
+<li><a href="contato.html" data-page-link="contato">Contato</a></li>
+      </ul>
+      <div class="nav-cta">
+        <a class="btn btn-secondary" href="contato.html">Solicitar contato</a>
+      </div>
+    </nav>
+
+    <a class="btn btn-primary" href="#" data-wa data-wa-message="Olá! Vim pelo site da Caraíbas e quero entender como minha empresa pode começar a vender para o governo.">
+      Falar no WhatsApp <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"></path><path d="m13 5 7 7-7 7"></path></svg>
+    </a>
+  </div>
+</header>
+
+<main>
+  <section class="page-hero">
+    <div class="container page-hero-grid">
+      <div class="reveal">
+        <span class="eyebrow">Contato</span>
+        <h1>Fale com a Caraíbas e receba uma orientação inicial com mais clareza e direção.</h1>
+        <p>
+          Use o formulário abaixo ou vá direto para o WhatsApp. O fluxo foi desenhado para ser simples, rápido e sem backend complexo, mantendo o foco total na conversão.
+        </p>
+      </div>
+      <aside class="hero-panel reveal">
+        <h2>Como este contato funciona</h2>
+        <p>Ao enviar o formulário, o site abre o WhatsApp com sua mensagem já estruturada. Isso reduz atrito e acelera o atendimento.</p>
+        <ul>
+          <li>Sem etapa técnica complicada</li>
+          <li>Foco em captação pelo WhatsApp</li>
+          <li>Pronto para Cloudflare Pages</li>
+          <li>Fluxo leve e responsivo</li>
+        </ul>
+      </aside>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container split">
+      <div class="form-card reveal">
+        <div class="section-head" style="margin-bottom:20px;">
+          <span class="kicker">Formulário</span>
+          <h2 style="margin-top:10px;">Conte um pouco sobre sua empresa.</h2>
+          <p>Preencha os dados e clique em enviar para abrir sua mensagem diretamente no WhatsApp.</p>
+        </div>
+
+        <form data-contact-form>
+          <div class="form-grid">
+            <div>
+              <label for="nome">Nome*</label>
+              <input id="nome" name="nome" type="text" placeholder="Seu nome" required>
+            </div>
+            <div>
+              <label for="empresa">Empresa</label>
+              <input id="empresa" name="empresa" type="text" placeholder="Nome da empresa">
+            </div>
+            <div>
+              <label for="email">E-mail*</label>
+              <input id="email" name="email" type="email" placeholder="voce@empresa.com" required>
+            </div>
+            <div>
+              <label for="telefone">Telefone</label>
+              <input id="telefone" name="telefone" type="tel" placeholder="(00) 00000-0000">
+            </div>
+            <div class="full">
+              <label for="servico">Serviço de interesse</label>
+              <select id="servico" name="servico">
+                <option value="">Selecione uma opção</option>
+                <option value="Diagnóstico de entrada">Diagnóstico de entrada</option>
+                <option value="Estruturação cadastral e documental">Estruturação cadastral e documental</option>
+                <option value="Análise de edital e viabilidade">Análise de edital e viabilidade</option>
+                <option value="Estratégia de participação">Estratégia de participação</option>
+                <option value="Suporte consultivo no processo">Suporte consultivo no processo</option>
+                <option value="Consultoria recorrente">Consultoria recorrente</option>
+              </select>
+            </div>
+            <div class="full">
+              <label for="mensagem">Mensagem*</label>
+              <textarea id="mensagem" name="mensagem" placeholder="Conte seu momento atual, sua principal dúvida e onde você sente mais insegurança." required></textarea>
+            </div>
+          </div>
+
+          <div class="btn-group" style="margin-top:18px;">
+            <button class="btn btn-primary" type="submit">
+              Enviar pelo WhatsApp <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"></path><path d="m13 5 7 7-7 7"></path></svg>
+            </button>
+            <a class="btn btn-secondary" href="#" data-wa data-wa-message="Olá! Vim pela página de contato da Caraíbas e quero atendimento inicial.">
+              Ir direto para o WhatsApp
+            </a>
+          </div>
+
+          <p class="help-text">* Campos obrigatórios. Este formulário não envia dados para um backend: ele abre o WhatsApp com a mensagem preenchida.</p>
+          <p class="notice" data-form-feedback hidden style="margin-top:14px;"></p>
+        </form>
+      </div>
+
+      <aside class="contact-side reveal">
+        <div class="contact-item">
+          <strong><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.4 19.4 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7l.4 2.7a2 2 0 0 1-.6 1.7L7 10a16 16 0 0 0 7 7l1.9-1.9a2 2 0 0 1 1.7-.6l2.7.4a2 2 0 0 1 1.7 2Z"></path></svg> WhatsApp</strong>
+          <p>Troque o número placeholder em <code>assets/js/main.js</code> antes de publicar.</p>
+        </div>
+        <div class="contact-item">
+          <strong><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 6h16a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2Z"></path><path d="m22 8-10 6L2 8"></path></svg> E-mail comercial</strong>
+          <p>contato@seudominio.com.br</p>
+        </div>
+        <div class="contact-item">
+          <strong><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 10c0 7-9 12-9 12S3 17 3 10a9 9 0 0 1 18 0Z"></path><circle cx="12" cy="10" r="3"></circle></svg> Área de atuação</strong>
+          <p>Atendimento consultivo para empresas que desejam iniciar vendas ao governo.</p>
+        </div>
+        <div class="contact-item">
+          <strong><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"></circle><path d="M12 7v5l3 2"></path></svg> Atendimento</strong>
+          <p>Segunda a sexta, em horário comercial. Ajuste conforme sua rotina real.</p>
+        </div>
+        <div class="panel-dark">
+          <span class="eyebrow" style="background:rgba(255,255,255,.08);border-color:rgba(255,255,255,.1);color:#f1efe8;">Atalho rápido</span>
+          <h3 style="font-family:'Cormorant Garamond',Georgia,serif;font-size:2rem;margin:14px 0 8px;">Prefere resolver agora?</h3>
+          <p>Abra o WhatsApp com uma mensagem pronta e acelere o primeiro contato.</p>
+          <a class="btn btn-secondary" href="#" data-wa data-wa-message="Olá! Quero atendimento inicial da Caraíbas e entender como minha empresa pode começar a vender para o governo.">
+            Falar agora
+          </a>
+        </div>
+      </aside>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <a class="logo" href="index.html" aria-label="Ir para a página inicial da Caraíbas">
+          <span class="logo-mark"><img src="assets/img/logo-monograma.svg" alt="Monograma Caraíbas"></span>
+          <span class="logo-text"><strong>Caraíbas</strong><span>Consultoria em Licitação</span></span>
+        </a>
+        <p class="subtle" style="max-width:620px;margin:18px 0 0;">
+          Consultoria em licitação para empresas que querem iniciar sua atuação no mercado público com mais segurança, clareza documental e direção estratégica.
+        </p>
+      </div>
+      <div>
+        <div class="footer-links">
+          <a href="sobre.html">Sobre</a>
+          <a href="servicos.html">Serviços</a>
+          <a href="depoimentos.html">Depoimentos</a>
+          <a href="faq.html">FAQ</a>
+          <a href="contato.html">Contato</a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-meta">
+      <span>© <span data-current-year></span> Caraíbas. Todos os direitos reservados.</span>
+      <span>Site estático, rápido e responsivo para Cloudflare Pages.</span>
+    </div>
+  </div>
+</footer>
+
+<div class="wa-float">
+  <a href="#" aria-label="Abrir conversa no WhatsApp" data-wa>
+    <img src="assets/icons/whatsapp.svg" alt="">
+  </a>
+</div>
+
+<script src="assets/js/main.js"></script>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Depoimentos e Provas | Caraíbas Consultoria em Licitação</title>
+  <meta name="description" content="Página de depoimentos, provas de autoridade e estrutura pronta para inserir casos reais da Caraíbas.">
+  <meta name="theme-color" content="#183C34">
+  <link rel="canonical" href="https://SEU-DOMINIO.com/depoimentos.html">
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="site.webmanifest">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="pt_BR">
+  <meta property="og:title" content="Depoimentos e Provas | Caraíbas Consultoria em Licitação">
+  <meta property="og:description" content="Página de depoimentos, provas de autoridade e estrutura pronta para inserir casos reais da Caraíbas.">
+  <meta property="og:image" content="https://SEU-DOMINIO.com/assets/img/og-cover.svg">
+  <meta property="og:url" content="https://SEU-DOMINIO.com/depoimentos.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Depoimentos e Provas | Caraíbas Consultoria em Licitação">
+  <meta name="twitter:description" content="Página de depoimentos, provas de autoridade e estrutura pronta para inserir casos reais da Caraíbas.">
+  <meta name="twitter:image" content="https://SEU-DOMINIO.com/assets/img/og-cover.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body data-page="depoimentos">
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="logo" href="index.html" aria-label="Ir para a página inicial da Caraíbas">
+      <span class="logo-mark"><img src="assets/img/logo-monograma.svg" alt="Monograma Caraíbas"></span>
+      <span class="logo-text"><strong>Caraíbas</strong><span>Consultoria em Licitação</span></span>
+    </a>
+
+    <button class="menu-toggle" type="button" aria-label="Abrir menu" aria-expanded="false" data-menu-toggle>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M4 7h16"></path><path d="M4 12h16"></path><path d="M4 17h16"></path></svg>
+    </button>
+
+    <nav class="nav" data-nav>
+      <ul class="nav-list">
+        <li><a href="index.html" data-page-link="home">Home</a></li>
+<li><a href="sobre.html" data-page-link="sobre">Sobre</a></li>
+<li><a href="servicos.html" data-page-link="servicos">Serviços</a></li>
+<li><a href="depoimentos.html" data-page-link="depoimentos">Depoimentos</a></li>
+<li><a href="faq.html" data-page-link="faq">FAQ</a></li>
+<li><a href="contato.html" data-page-link="contato">Contato</a></li>
+      </ul>
+      <div class="nav-cta">
+        <a class="btn btn-secondary" href="contato.html">Solicitar contato</a>
+      </div>
+    </nav>
+
+    <a class="btn btn-primary" href="#" data-wa data-wa-message="Olá! Vim pelo site da Caraíbas e quero entender como minha empresa pode começar a vender para o governo.">
+      Falar no WhatsApp <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"></path><path d="m13 5 7 7-7 7"></path></svg>
+    </a>
+  </div>
+</header>
+
+<main>
+  <section class="page-hero">
+    <div class="container page-hero-grid">
+      <div class="reveal">
+        <span class="eyebrow">Depoimentos e provas</span>
+        <h1>Uma estrutura pronta para reforçar confiança com depoimentos reais, cases e sinais de autoridade.</h1>
+        <p>
+          Para manter honestidade nesta entrega, os blocos abaixo foram preparados como placeholders elegantes. Basta substituir o conteúdo pelos seus relatos, logos, números e evidências reais.
+        </p>
+      </div>
+      <aside class="hero-panel reveal">
+        <h2>O que vale destacar aqui</h2>
+        <p>Depoimentos devem mostrar sensação de segurança, clareza no processo, organização documental e confiança para começar.</p>
+        <ul>
+          <li>Resultados reais</li>
+          <li>Setor da empresa atendida</li>
+          <li>Problema inicial do cliente</li>
+          <li>Transformação percebida</li>
+        </ul>
+      </aside>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="notice reveal">
+        <strong>Importante:</strong> mantive esta página sem depoimentos inventados. Isso evita criar prova social falsa e deixa o projeto pronto para você inserir autoridade real da marca.
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container grid-3">
+      <article class="card testimonial reveal">
+        <span class="placeholder-badge">Substituir pelo real</span>
+        <div class="stars">★★★★★</div>
+        <blockquote>“A Caraíbas nos ajudou a organizar a base documental e a enxergar o processo com muito mais clareza e segurança.”</blockquote>
+        <footer>
+          <strong>Nome do cliente</strong>
+          <span>Cargo • Empresa • Segmento</span>
+        </footer>
+      </article>
+      <article class="card testimonial reveal">
+        <span class="placeholder-badge">Substituir pelo real</span>
+        <div class="stars">★★★★★</div>
+        <blockquote>“Saímos da sensação de burocracia confusa para uma visão prática do que precisava ser feito para iniciar corretamente.”</blockquote>
+        <footer>
+          <strong>Nome do cliente</strong>
+          <span>Cargo • Empresa • Segmento</span>
+        </footer>
+      </article>
+      <article class="card testimonial reveal">
+        <span class="placeholder-badge">Substituir pelo real</span>
+        <div class="stars">★★★★★</div>
+        <blockquote>“O diferencial foi sentir que havia método, acompanhamento e leitura estratégica, não apenas informação solta.”</blockquote>
+        <footer>
+          <strong>Nome do cliente</strong>
+          <span>Cargo • Empresa • Segmento</span>
+        </footer>
+      </article>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head reveal">
+        <span class="kicker">Outras provas de autoridade</span>
+        <h2>Além de depoimentos, use este espaço para mostrar sinais concretos de credibilidade.</h2>
+      </div>
+
+      <div class="grid-4">
+        <article class="card reveal">
+          <div class="card-top"><div class="card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 21h18"></path><path d="M5 21V7l7-4 7 4v14"></path><path d="M9 9h.01"></path><path d="M9 13h.01"></path><path d="M9 17h.01"></path><path d="M15 9h.01"></path><path d="M15 13h.01"></path><path d="M15 17h.01"></path></svg></div></div>
+          <h3>Setores atendidos</h3>
+          <p>Liste os principais segmentos já atendidos ou com maior aderência à sua atuação.</p>
+        </article>
+        <article class="card reveal">
+          <div class="card-top"><div class="card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 3v18h18"></path><path d="m7 14 3-3 3 2 5-6"></path></svg></div></div>
+          <h3>Resultados percebidos</h3>
+          <p>Exiba números reais, ganhos de organização, tempo poupado ou evolução do cliente.</p>
+        </article>
+        <article class="card reveal">
+          <div class="card-top"><div class="card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M22 21v-2a4 4 0 0 0-3-3.9"></path><path d="M16 3.1a4 4 0 0 1 0 7.8"></path></svg></div></div>
+          <h3>Empresas acompanhadas</h3>
+          <p>Inclua logos, nomes ou selos de confiança quando tiver autorização para exibição.</p>
+        </article>
+        <article class="card reveal">
+          <div class="card-top"><div class="card-icon"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M10 11H6.5A2.5 2.5 0 0 1 4 8.5V8a4 4 0 0 1 4-4h1v3H8a1 1 0 0 0-1 1v.5A1.5 1.5 0 0 0 8.5 10H10v6H4v-2h4v-3Zm10 0h-3.5A2.5 2.5 0 0 1 14 8.5V8a4 4 0 0 1 4-4h1v3h-1a1 1 0 0 0-1 1v.5a1.5 1.5 0 0 0 1.5 1.5H20v6h-6v-2h4v-3Z"/></svg></div></div>
+          <h3>Mini cases</h3>
+          <p>Relatos curtos com contexto, problema, solução e sensação de segurança transmitida.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container grid-2">
+      <div class="panel reveal">
+        <span class="eyebrow">Modelo de case</span>
+        <ul class="check-list" style="margin-top:18px;">
+          <li><strong>Cenário:</strong> empresa sem experiência prévia em vendas ao governo.</li>
+          <li><strong>Desafio:</strong> insegurança documental e desconhecimento do processo.</li>
+          <li><strong>Atuação:</strong> diagnóstico, estruturação e orientação estratégica.</li>
+          <li><strong>Resultado:</strong> mais clareza, preparo e confiança para decidir.</li>
+        </ul>
+      </div>
+      <div class="quote reveal">
+        <p>“Prova social forte não precisa parecer exagerada. Ela precisa parecer confiável.”</p>
+        <small>É isso que sustenta a percepção de valor neste site.</small>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="cta-band reveal">
+        <span class="kicker" style="color:#d3c5a4;">Atualização simples</span>
+        <h2>Quando você tiver seus depoimentos reais, esta página já estará pronta para receber tudo com visual premium.</h2>
+        <p>
+          Enquanto isso, o site continua forte em posicionamento, clareza e captação. E quando as provas reais entrarem, a autoridade sobe ainda mais.
+        </p>
+        <div class="btn-group">
+          <a class="btn btn-primary" href="contato.html">Abrir página de contato</a>
+          <a class="btn btn-secondary" href="#" data-wa data-wa-message="Olá! Quero entender como personalizar melhor as provas de autoridade no site da Caraíbas.">
+            Falar no WhatsApp
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <a class="logo" href="index.html" aria-label="Ir para a página inicial da Caraíbas">
+          <span class="logo-mark"><img src="assets/img/logo-monograma.svg" alt="Monograma Caraíbas"></span>
+          <span class="logo-text"><strong>Caraíbas</strong><span>Consultoria em Licitação</span></span>
+        </a>
+        <p class="subtle" style="max-width:620px;margin:18px 0 0;">
+          Consultoria em licitação para empresas que querem iniciar sua atuação no mercado público com mais segurança, clareza documental e direção estratégica.
+        </p>
+      </div>
+      <div>
+        <div class="footer-links">
+          <a href="sobre.html">Sobre</a>
+          <a href="servicos.html">Serviços</a>
+          <a href="depoimentos.html">Depoimentos</a>
+          <a href="faq.html">FAQ</a>
+          <a href="contato.html">Contato</a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-meta">
+      <span>© <span data-current-year></span> Caraíbas. Todos os direitos reservados.</span>
+      <span>Site estático, rápido e responsivo para Cloudflare Pages.</span>
+    </div>
+  </div>
+</footer>
+
+<div class="wa-float">
+  <a href="#" aria-label="Abrir conversa no WhatsApp" data-wa>
+    <img src="assets/icons/whatsapp.svg" alt="">
+  </a>
+</div>
+
+<script src="assets/js/main.js"></script>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FAQ | Caraíbas Consultoria em Licitação</title>
+  <meta name="description" content="Perguntas frequentes sobre consultoria em licitação para empresas que ainda não vendem ao governo.">
+  <meta name="theme-color" content="#183C34">
+  <link rel="canonical" href="https://SEU-DOMINIO.com/faq.html">
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="site.webmanifest">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="pt_BR">
+  <meta property="og:title" content="FAQ | Caraíbas Consultoria em Licitação">
+  <meta property="og:description" content="Perguntas frequentes sobre consultoria em licitação para empresas que ainda não vendem ao governo.">
+  <meta property="og:image" content="https://SEU-DOMINIO.com/assets/img/og-cover.svg">
+  <meta property="og:url" content="https://SEU-DOMINIO.com/faq.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="FAQ | Caraíbas Consultoria em Licitação">
+  <meta name="twitter:description" content="Perguntas frequentes sobre consultoria em licitação para empresas que ainda não vendem ao governo.">
+  <meta name="twitter:image" content="https://SEU-DOMINIO.com/assets/img/og-cover.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body data-page="faq">
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="logo" href="index.html" aria-label="Ir para a página inicial da Caraíbas">
+      <span class="logo-mark"><img src="assets/img/logo-monograma.svg" alt="Monograma Caraíbas"></span>
+      <span class="logo-text"><strong>Caraíbas</strong><span>Consultoria em Licitação</span></span>
+    </a>
+
+    <button class="menu-toggle" type="button" aria-label="Abrir menu" aria-expanded="false" data-menu-toggle>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M4 7h16"></path><path d="M4 12h16"></path><path d="M4 17h16"></path></svg>
+    </button>
+
+    <nav class="nav" data-nav>
+      <ul class="nav-list">
+        <li><a href="index.html" data-page-link="home">Home</a></li>
+<li><a href="sobre.html" data-page-link="sobre">Sobre</a></li>
+<li><a href="servicos.html" data-page-link="servicos">Serviços</a></li>
+<li><a href="depoimentos.html" data-page-link="depoimentos">Depoimentos</a></li>
+<li><a href="faq.html" data-page-link="faq">FAQ</a></li>
+<li><a href="contato.html" data-page-link="contato">Contato</a></li>
+      </ul>
+      <div class="nav-cta">
+        <a class="btn btn-secondary" href="contato.html">Solicitar contato</a>
+      </div>
+    </nav>
+
+    <a class="btn btn-primary" href="#" data-wa data-wa-message="Olá! Vim pelo site da Caraíbas e quero entender como minha empresa pode começar a vender para o governo.">
+      Falar no WhatsApp <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"></path><path d="m13 5 7 7-7 7"></path></svg>
+    </a>
+  </div>
+</header>
+
+<main>
+  <section class="page-hero">
+    <div class="container page-hero-grid">
+      <div class="reveal">
+        <span class="eyebrow">Perguntas frequentes</span>
+        <h1>As dúvidas mais comuns de quem quer começar a vender para o governo.</h1>
+        <p>
+          Esta página foi escrita para reduzir objeções, esclarecer o processo e deixar o primeiro contato mais simples para empresários que ainda não atuam em licitações.
+        </p>
+      </div>
+      <aside class="hero-panel reveal">
+        <h2>FAQ pensado para conversão</h2>
+        <p>As respostas foram construídas para reduzir medo, trazer clareza e facilitar a ida para o WhatsApp.</p>
+        <ul>
+          <li>Linguagem simples</li>
+          <li>Tom técnico sem frieza</li>
+          <li>Objeções respondidas</li>
+          <li>Foco em confiança</li>
+        </ul>
+      </aside>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="faq reveal">
+        <div class="faq-item">
+          <button class="faq-question" type="button">
+            <span>Minha empresa nunca vendeu para o governo. Posso começar agora?</span>
+            <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M12 5v14"></path><path d="M5 12h14"></path></svg></span>
+          </button>
+          <div class="faq-answer">
+            Sim. Muitas empresas começam exatamente desse ponto. O papel da consultoria é organizar a entrada, reduzir insegurança e mostrar os passos necessários com mais clareza.
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <button class="faq-question" type="button">
+            <span>Preciso já entender de licitação para procurar ajuda?</span>
+            <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M12 5v14"></path><path d="M5 12h14"></path></svg></span>
+          </button>
+          <div class="faq-answer">
+            Não. O atendimento deve justamente traduzir o processo para uma linguagem compreensível, sem depender de conhecimento prévio do cliente.
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <button class="faq-question" type="button">
+            <span>A Caraíbas ajuda com documentação?</span>
+            <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M12 5v14"></path><path d="M5 12h14"></path></svg></span>
+          </button>
+          <div class="faq-answer">
+            Sim. O site já foi planejado para comunicar apoio em estruturação documental, leitura técnica e orientação consultiva, sempre com foco em mais segurança.
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <button class="faq-question" type="button">
+            <span>Como saber se minha empresa está pronta para participar?</span>
+            <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M12 5v14"></path><path d="M5 12h14"></path></svg></span>
+          </button>
+          <div class="faq-answer">
+            O diagnóstico inicial ajuda a identificar maturidade, lacunas e prioridades. Em muitos casos, o primeiro passo é entender viabilidade e preparação antes de competir.
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <button class="faq-question" type="button">
+            <span>Vocês analisam editais específicos?</span>
+            <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M12 5v14"></path><path d="M5 12h14"></path></svg></span>
+          </button>
+          <div class="faq-answer">
+            Sim. A análise técnica do edital permite avaliar exigências, aderência e riscos, contribuindo para uma decisão mais segura sobre participar ou não.
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <button class="faq-question" type="button">
+            <span>Esse serviço é só para empresas grandes?</span>
+            <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M12 5v14"></path><path d="M5 12h14"></path></svg></span>
+          </button>
+          <div class="faq-answer">
+            Não. A proposta é atender empresas que queiram estruturar melhor sua entrada no mercado público, independentemente do porte, desde que exista aderência ao processo.
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <button class="faq-question" type="button">
+            <span>O contato inicial é pelo WhatsApp?</span>
+            <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M12 5v14"></path><path d="M5 12h14"></path></svg></span>
+          </button>
+          <div class="faq-answer">
+            Sim. O site foi desenhado para levar o lead para o WhatsApp com o menor atrito possível, inclusive por meio do formulário com mensagem pré-preenchida.
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <button class="faq-question" type="button">
+            <span>O site funciona bem no celular?</span>
+            <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M12 5v14"></path><path d="M5 12h14"></path></svg></span>
+          </button>
+          <div class="faq-answer">
+            Sim. Toda a interface foi construída com foco em performance, leitura confortável e ótima experiência mobile, já pensando no uso real do público.
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="cta-band reveal">
+        <span class="kicker" style="color:#d3c5a4;">Ainda ficou dúvida?</span>
+        <h2>Abra uma conversa no WhatsApp e explique seu cenário em poucos minutos.</h2>
+        <p>
+          O objetivo do primeiro contato é entender onde sua empresa está, o que já existe hoje e qual o próximo passo mais seguro.
+        </p>
+        <div class="btn-group">
+          <a class="btn btn-primary" href="#" data-wa data-wa-message="Olá! Li o FAQ do site e quero tirar uma dúvida sobre a entrada da minha empresa em licitações.">
+            Falar no WhatsApp <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"></path><path d="m13 5 7 7-7 7"></path></svg>
+          </a>
+          <a class="btn btn-secondary" href="contato.html">Ir para contato</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <a class="logo" href="index.html" aria-label="Ir para a página inicial da Caraíbas">
+          <span class="logo-mark"><img src="assets/img/logo-monograma.svg" alt="Monograma Caraíbas"></span>
+          <span class="logo-text"><strong>Caraíbas</strong><span>Consultoria em Licitação</span></span>
+        </a>
+        <p class="subtle" style="max-width:620px;margin:18px 0 0;">
+          Consultoria em licitação para empresas que querem iniciar sua atuação no mercado público com mais segurança, clareza documental e direção estratégica.
+        </p>
+      </div>
+      <div>
+        <div class="footer-links">
+          <a href="sobre.html">Sobre</a>
+          <a href="servicos.html">Serviços</a>
+          <a href="depoimentos.html">Depoimentos</a>
+          <a href="faq.html">FAQ</a>
+          <a href="contato.html">Contato</a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-meta">
+      <span>© <span data-current-year></span> Caraíbas. Todos os direitos reservados.</span>
+      <span>Site estático, rápido e responsivo para Cloudflare Pages.</span>
+    </div>
+  </div>
+</footer>
+
+<div class="wa-float">
+  <a href="#" aria-label="Abrir conversa no WhatsApp" data-wa>
+    <img src="assets/icons/whatsapp.svg" alt="">
+  </a>
+</div>
+
+<script src="assets/js/main.js"></script>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Caraíbas | Consultoria em Licitação para empresas que querem vender ao governo</title>
+  <meta name="description" content="Consultoria em licitação com posicionamento premium para empresas que querem começar a vender para o governo com mais segurança, estratégia e clareza.">
+  <meta name="theme-color" content="#183C34">
+  <link rel="canonical" href="https://SEU-DOMINIO.com/index.html">
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="site.webmanifest">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="pt_BR">
+  <meta property="og:title" content="Caraíbas | Consultoria em Licitação para empresas que querem vender ao governo">
+  <meta property="og:description" content="Consultoria em licitação com posicionamento premium para empresas que querem começar a vender para o governo com mais segurança, estratégia e clareza.">
+  <meta property="og:image" content="https://SEU-DOMINIO.com/assets/img/og-cover.svg">
+  <meta property="og:url" content="https://SEU-DOMINIO.com/index.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Caraíbas | Consultoria em Licitação para empresas que querem vender ao governo">
+  <meta name="twitter:description" content="Consultoria em licitação com posicionamento premium para empresas que querem começar a vender para o governo com mais segurança, estratégia e clareza.">
+  <meta name="twitter:image" content="https://SEU-DOMINIO.com/assets/img/og-cover.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body data-page="home">
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="logo" href="index.html" aria-label="Ir para a página inicial da Caraíbas">
+      <span class="logo-mark"><img src="assets/img/logo-monograma.svg" alt="Monograma Caraíbas"></span>
+      <span class="logo-text"><strong>Caraíbas</strong><span>Consultoria em Licitação</span></span>
+    </a>
+
+    <button class="menu-toggle" type="button" aria-label="Abrir menu" aria-expanded="false" data-menu-toggle>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M4 7h16"></path><path d="M4 12h16"></path><path d="M4 17h16"></path></svg>
+    </button>
+
+    <nav class="nav" data-nav>
+      <ul class="nav-list">
+        <li><a href="index.html" data-page-link="home">Home</a></li>
+<li><a href="sobre.html" data-page-link="sobre">Sobre</a></li>
+<li><a href="servicos.html" data-page-link="servicos">Serviços</a></li>
+<li><a href="depoimentos.html" data-page-link="depoimentos">Depoimentos</a></li>
+<li><a href="faq.html" data-page-link="faq">FAQ</a></li>
+<li><a href="contato.html" data-page-link="contato">Contato</a></li>
+      </ul>
+      <div class="nav-cta">
+        <a class="btn btn-secondary" href="contato.html">Solicitar contato</a>
+      </div>
+    </nav>
+
+    <a class="btn btn-primary" href="#" data-wa data-wa-message="Olá! Vim pelo site da Caraíbas e quero entender como minha empresa pode começar a vender para o governo.">
+      Falar no WhatsApp <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"></path><path d="m13 5 7 7-7 7"></path></svg>
+    </a>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <div class="container hero-grid">
+      <div class="hero-copy reveal">
+        <span class="eyebrow">Autoridade técnica com sofisticação discreta</span>
+        <h1>Consultoria em licitação para empresas que querem começar a vender para o governo com segurança.</h1>
+        <p>
+          A Caraíbas organiza sua entrada no mercado público com rigor documental, leitura estratégica e acompanhamento consultivo para transformar complexidade em decisões mais seguras.
+        </p>
+
+        <div class="hero-actions btn-group">
+          <a class="btn btn-primary" href="#" data-wa data-wa-message="Olá! Quero conversar sobre como minha empresa pode começar a vender para o governo com a ajuda da Caraíbas.">
+            Falar no WhatsApp <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"></path><path d="m13 5 7 7-7 7"></path></svg>
+          </a>
+          <a class="btn btn-secondary" href="servicos.html">Conhecer serviços</a>
+        </div>
+
+        <div class="hero-trust">
+          <span class="trust-chip"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l7 3v5c0 5-3.5 8.5-7 10-3.5-1.5-7-5-7-10V6l7-3Z"></path><path d="m9.5 12 1.8 1.8L15 10"></path></svg> Menos improviso e mais segurança</span>
+          <span class="trust-chip"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 3v18h18"></path><path d="m7 14 3-3 3 2 5-6"></path></svg> Clareza para quem ainda não vende ao governo</span>
+          <span class="trust-chip"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"></path><path d="M14 3v5h5"></path><path d="M9 13h6"></path><path d="M9 17h6"></path></svg> Apoio documental e estratégico</span>
+        </div>
+      </div>
+
+      <div class="hero-card reveal">
+        <span class="mini-label">Estrutura premium para gerar confiança</span>
+        <h2>Rigor, estratégia e confiança em cada etapa do processo.</h2>
+        <p>
+          Para o empresário que ainda não vende para o governo, o primeiro passo não é apenas participar de um edital — é construir uma entrada segura, organizada e bem orientada.
+        </p>
+        <div class="hero-card-grid">
+          <div class="hero-card-item">
+            <strong>Diagnóstico inicial</strong>
+            <span>Entendimento do momento da empresa e dos requisitos para entrada.</span>
+          </div>
+          <div class="hero-card-item">
+            <strong>Leitura técnica</strong>
+            <span>Análise criteriosa de documentos, requisitos e oportunidades.</span>
+          </div>
+          <div class="hero-card-item">
+            <strong>Condução consultiva</strong>
+            <span>Orientação clara para reduzir erro, ruído e insegurança.</span>
+          </div>
+          <div class="hero-card-item">
+            <strong>Foco em conversão</strong>
+            <span>CTAs simples e caminho direto para atendimento no WhatsApp.</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section-topless section">
+    <div class="container">
+      <div class="metric-strip reveal">
+        <div class="metric">
+          <strong>Entrada segura</strong>
+          <span>Estruturação para empresas que ainda não atuam no mercado público.</span>
+        </div>
+        <div class="metric">
+          <strong>Visão técnica</strong>
+          <span>Documentação, leitura de cenários e tomada de decisão com mais clareza.</span>
+        </div>
+        <div class="metric">
+          <strong>Posicionamento premium</strong>
+          <span>Marca, discurso e apresentação com percepção de valor.</span>
+        </div>
+        <div class="metric">
+          <strong>Jornada simples</strong>
+          <span>Site rápido, responsivo e desenhado para levar o lead ao WhatsApp.</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container split">
+      <div class="section-head reveal">
+        <span class="kicker">A dor que resolvemos</span>
+        <h2>Sua empresa tem potencial para vender ao governo, mas o processo ainda parece distante, burocrático ou arriscado.</h2>
+        <p>
+          Muitos empresários não começam porque não sabem por onde entrar, temem erros em documentos ou acreditam que licitação é um território complexo demais. A Caraíbas reduz esse atrito com direção técnica e linguagem clara.
+        </p>
+        <ul class="check-list" style="margin-top:22px;">
+          <li>Você não sabe quais passos vêm antes da primeira participação.</li>
+          <li>Tem receio de perder tempo com documentação errada ou incompleta.</li>
+          <li>Quer entender se sua empresa está pronta para competir no mercado público.</li>
+          <li>Precisa de uma consultoria que transmita segurança e não apenas informação solta.</li>
+        </ul>
+      </div>
+
+      <div class="panel reveal">
+        <span class="eyebrow">O que o cliente precisa sentir</span>
+        <div class="process" style="margin-top:18px;">
+          <div class="process-step">
+            <div class="step-number">1</div>
+            <div>
+              <h3>“Eles entendem o caminho.”</h3>
+              <p>Autoridade transmitida por clareza, organização e um discurso técnico sem excesso.</p>
+            </div>
+          </div>
+          <div class="process-step">
+            <div class="step-number">2</div>
+            <div>
+              <h3>“Eles sabem reduzir meu risco.”</h3>
+              <p>O valor percebido cresce quando o serviço mostra método, leitura de cenário e acompanhamento.</p>
+            </div>
+          </div>
+          <div class="process-step">
+            <div class="step-number">3</div>
+            <div>
+              <h3>“Eles conseguem me conduzir.”</h3>
+              <p>O empresário precisa sentir que a complexidade será traduzida em decisões práticas e seguras.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="servicos-home">
+    <div class="container">
+      <div class="section-head reveal">
+        <span class="kicker">Serviços</span>
+        <h2>Uma consultoria pensada para destravar a entrada da sua empresa no mercado público.</h2>
+        <p>
+          O foco não é apenas explicar licitação. É criar condições para que sua empresa entre com mais preparo, mais confiança e mais controle.
+        </p>
+      </div>
+
+      <div class="grid-3">
+        <article class="card service-card reveal">
+          <div class="card-top">
+            <div class="card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m21 21-4.3-4.3"></path></svg></div>
+            <span class="card-tag">Começo certo</span>
+          </div>
+          <h3>Diagnóstico de entrada</h3>
+          <p>Mapeamento do momento da empresa, requisitos iniciais e definição dos próximos passos para começar com segurança.</p>
+          <a class="btn btn-accent" href="contato.html?servico=Diagnóstico%20de%20entrada">Quero esse serviço</a>
+        </article>
+
+        <article class="card service-card reveal">
+          <div class="card-top">
+            <div class="card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"></path><path d="M14 3v5h5"></path><path d="M9 13h6"></path><path d="M9 17h6"></path></svg></div>
+            <span class="card-tag">Base documental</span>
+          </div>
+          <h3>Estruturação cadastral e documental</h3>
+          <p>Organização dos elementos que sustentam a participação da empresa e reduzem falhas evitáveis.</p>
+          <a class="btn btn-accent" href="contato.html?servico=Estruturação%20cadastral%20e%20documental">Quero esse serviço</a>
+        </article>
+
+        <article class="card service-card reveal">
+          <div class="card-top">
+            <div class="card-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 3v18h18"></path><path d="m7 14 3-3 3 2 5-6"></path></svg></div>
+            <span class="card-tag">Decisão segura</span>
+          </div>
+          <h3>Análise de edital e viabilidade</h3>
+          <p>Leitura técnica para entender requisitos, riscos, aderência e estratégia de participação.</p>
+          <a class="btn btn-accent" href="contato.html?servico=An%C3%A1lise%20de%20edital%20e%20viabilidade">Quero esse serviço</a>
+        </article>
+      </div>
+
+      <div style="margin-top:24px;" class="text-center reveal">
+        <a class="btn btn-secondary" href="servicos.html">Ver todos os serviços</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container split">
+      <div class="section-head reveal">
+        <span class="kicker">Como funciona</span>
+        <h2>Um processo simples para tirar sua empresa da incerteza e levar até uma atuação mais preparada.</h2>
+        <p>
+          A jornada é estruturada para reduzir ruído, acelerar entendimento e organizar a entrada no mercado público com mais maturidade.
+        </p>
+      </div>
+
+      <div class="process reveal">
+        <div class="process-step">
+          <div class="step-number">1</div>
+          <div>
+            <h3>Diagnóstico</h3>
+            <p>Entendimento do cenário atual da empresa, do objetivo comercial e do nível de prontidão para começar.</p>
+          </div>
+        </div>
+        <div class="process-step">
+          <div class="step-number">2</div>
+          <div>
+            <h3>Estruturação</h3>
+            <p>Organização cadastral, documental e lógica de atuação para reduzir erros e retrabalho.</p>
+          </div>
+        </div>
+        <div class="process-step">
+          <div class="step-number">3</div>
+          <div>
+            <h3>Leitura estratégica</h3>
+            <p>Análise de oportunidades e de exigências para decisões mais claras e melhor priorização.</p>
+          </div>
+        </div>
+        <div class="process-step">
+          <div class="step-number">4</div>
+          <div>
+            <h3>Acompanhamento consultivo</h3>
+            <p>Suporte próximo para a empresa não se sentir sozinha diante da complexidade do processo.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container grid-2">
+      <div class="quote reveal">
+        <p>“O premium certo para este segmento não é luxo chamativo. É sobriedade, precisão e autoridade elegante.”</p>
+        <small>Direção aplicada em toda a experiência do site e do posicionamento da marca.</small>
+      </div>
+      <div class="panel reveal">
+        <span class="eyebrow">Autoridade sem exagero</span>
+        <ul class="check-list" style="margin-top:18px;">
+          <li>Visual limpo, rápido e pensado para gerar confiança no primeiro contato.</li>
+          <li>Mensagem focada em dor real: insegurança, burocracia e medo de errar.</li>
+          <li>CTAs estratégicos para WhatsApp em todos os pontos principais do site.</li>
+          <li>Estrutura pronta para incluir provas reais de autoridade, cases e depoimentos.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head reveal">
+        <span class="kicker">Depoimentos e provas</span>
+        <h2>O site já deixa pronta a vitrine para inserir depoimentos reais e reforços de autoridade.</h2>
+        <p>
+          Como não recebemos casos reais nesta etapa, a estrutura foi criada de forma honesta para você substituir pelos seus próprios resultados, nomes, empresas e relatos.
+        </p>
+      </div>
+
+      <div class="grid-3">
+        <article class="card testimonial reveal">
+          <span class="placeholder-badge">Placeholder</span>
+          <div class="stars">★★★★★</div>
+          <blockquote>“Insira aqui um depoimento real que mostre como a consultoria trouxe segurança, clareza e confiança para iniciar no mercado público.”</blockquote>
+          <footer>
+            <strong>Nome do cliente</strong>
+            <span>Empresa / segmento</span>
+          </footer>
+        </article>
+
+        <article class="card testimonial reveal">
+          <span class="placeholder-badge">Placeholder</span>
+          <div class="stars">★★★★★</div>
+          <blockquote>“Use esta área para destacar organização documental, leitura estratégica ou redução de insegurança no processo.”</blockquote>
+          <footer>
+            <strong>Nome do cliente</strong>
+            <span>Empresa / segmento</span>
+          </footer>
+        </article>
+
+        <article class="card testimonial reveal">
+          <span class="placeholder-badge">Placeholder</span>
+          <div class="stars">★★★★★</div>
+          <blockquote>“Um bom depoimento aqui deve falar de confiança, método e sensação de acompanhamento técnico.”</blockquote>
+          <footer>
+            <strong>Nome do cliente</strong>
+            <span>Empresa / segmento</span>
+          </footer>
+        </article>
+      </div>
+
+      <div style="margin-top:24px;" class="text-center reveal">
+        <a class="btn btn-secondary" href="depoimentos.html">Abrir página de depoimentos</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-sm">
+    <div class="container">
+      <div class="section-head reveal">
+        <span class="kicker">FAQ</span>
+        <h2>Dúvidas comuns de quem ainda não vende para o governo.</h2>
+      </div>
+
+      <div class="faq reveal">
+        <div class="faq-item">
+          <button class="faq-question" type="button">
+            <span>Minha empresa nunca participou de licitação. Ainda assim vale a pena conversar?</span>
+            <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M12 5v14"></path><path d="M5 12h14"></path></svg></span>
+          </button>
+          <div class="faq-answer">
+            Sim. O site foi estruturado exatamente para esse perfil: empresas que querem entender o caminho, reduzir insegurança e começar com mais preparo.
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question" type="button">
+            <span>Vocês ajudam com documentação e entendimento do edital?</span>
+            <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M12 5v14"></path><path d="M5 12h14"></path></svg></span>
+          </button>
+          <div class="faq-answer">
+            Sim. A proposta da Caraíbas é apoiar desde a base documental até a leitura técnica da oportunidade, de acordo com a necessidade do atendimento.
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question" type="button">
+            <span>O primeiro contato é pelo WhatsApp?</span>
+            <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M12 5v14"></path><path d="M5 12h14"></path></svg></span>
+          </button>
+          <div class="faq-answer">
+            Sim. Todos os principais CTAs levam para o WhatsApp para reduzir atrito e facilitar a captação do lead.
+          </div>
+        </div>
+      </div>
+
+      <div style="margin-top:24px;" class="text-center reveal">
+        <a class="btn btn-secondary" href="faq.html">Ver FAQ completo</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="cta-band reveal">
+        <span class="kicker" style="color:#d3c5a4;">Próximo passo</span>
+        <h2>Se sua empresa quer começar a vender para o governo, a primeira conversa precisa trazer clareza.</h2>
+        <p>
+          Fale com a Caraíbas e entenda quais são os passos, riscos e prioridades para estruturar essa entrada com mais segurança.
+        </p>
+        <div class="btn-group">
+          <a class="btn btn-primary" href="#" data-wa data-wa-message="Olá! Quero conversar sobre a entrada da minha empresa no mercado público.">
+            Falar no WhatsApp <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"></path><path d="m13 5 7 7-7 7"></path></svg>
+          </a>
+          <a class="btn btn-secondary" href="contato.html">Abrir formulário</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <a class="logo" href="index.html" aria-label="Ir para a página inicial da Caraíbas">
+          <span class="logo-mark"><img src="assets/img/logo-monograma.svg" alt="Monograma Caraíbas"></span>
+          <span class="logo-text"><strong>Caraíbas</strong><span>Consultoria em Licitação</span></span>
+        </a>
+        <p class="subtle" style="max-width:620px;margin:18px 0 0;">
+          Consultoria em licitação para empresas que querem iniciar sua atuação no mercado público com mais segurança, clareza documental e direção estratégica.
+        </p>
+      </div>
+      <div>
+        <div class="footer-links">
+          <a href="sobre.html">Sobre</a>
+          <a href="servicos.html">Serviços</a>
+          <a href="depoimentos.html">Depoimentos</a>
+          <a href="faq.html">FAQ</a>
+          <a href="contato.html">Contato</a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-meta">
+      <span>© <span data-current-year></span> Caraíbas. Todos os direitos reservados.</span>
+      <span>Site estático, rápido e responsivo para Cloudflare Pages.</span>
+    </div>
+  </div>
+</footer>
+
+<div class="wa-float">
+  <a href="#" aria-label="Abrir conversa no WhatsApp" data-wa>
+    <img src="assets/icons/whatsapp.svg" alt="">
+  </a>
+</div>
+
+<script src="assets/js/main.js"></script>
+</body>
+</html>
+
+# Caraíbas — site institucional estático
+
+Site institucional premium para **Caraíbas Consultoria em Licitação**, feito em **HTML/CSS/JS puro** para ser rápido, barato de manter e fácil de publicar na **Cloudflare Pages**.
+
+## Estrutura
+
+```bash
+caraibas-site/
+├── index.html
+├── sobre.html
+├── servicos.html
+├── depoimentos.html
+├── faq.html
+├── contato.html
+├── 404.html
+├── robots.txt
+├── sitemap.xml
+├── site.webmanifest
+├── assets/
+│   ├── css/
+│   │   └── styles.css
+│   ├── js/
+│   │   └── main.js
+│   ├── img/
+│   │   ├── favicon.svg
+│   │   ├── logo-monograma.svg
+│   │   └── og-cover.svg
+│   └── icons/
+│       └── whatsapp.svg
+└── README.md
+```
+
+## Antes de publicar
+
+### 1) Ajuste o número do WhatsApp
+
+Abra o arquivo:
+
+```bash
+assets/js/main.js
+```
+
+Troque esta linha:
+
+```js
+whatsappNumber: '5500000000000',
+```
+
+Pelo seu número no formato internacional, sem `+`, espaços ou traços.
+
+Exemplo:
+
+```js
+whatsappNumber: '5561999999999',
+```
+
+### 2) Ajuste domínio e SEO
+
+Edite estes arquivos e substitua `SEU-DOMINIO.com` pelo domínio final:
+
+- `robots.txt`
+- `sitemap.xml`
+
+Se quiser, também ajuste o conteúdo das metas Open Graph em cada HTML.
+
+### 3) Substitua os depoimentos placeholder
+
+A página `depoimentos.html` já está pronta visualmente, mas os textos foram deixados como **placeholders honestos** para você inserir depoimentos reais.
+
+## Como rodar localmente no VS Code
+
+### Opção A — extensão Live Server
+A forma mais prática.
+
+1. Abra a pasta `caraibas-site` no VS Code.
+2. Instale a extensão **Live Server**.
+3. Clique com o botão direito em `index.html`.
+4. Clique em **Open with Live Server**.
+
+O site vai abrir no navegador com atualização automática.
+
+### Opção B — servidor local com Python
+Se você tiver Python instalado:
+
+```bash
+cd caraibas-site
+python -m http.server 5500
+```
+
+Depois abra:
+
+```bash
+http://localhost:5500
+```
+
+## Como publicar na Cloudflare Pages
+
+Este projeto é estático, então você pode publicar de duas formas:
+
+### Opção 1 — GitHub + deploy automático
+Melhor para manutenção contínua.
+
+1. Crie um repositório no GitHub.
+2. Envie todos os arquivos do projeto para esse repositório.
+3. No painel da Cloudflare, vá em **Workers & Pages**.
+4. Clique em **Create application**.
+5. Escolha **Pages**.
+6. Clique em **Connect to Git**.
+7. Conecte sua conta GitHub e selecione o repositório.
+8. Em build settings, use:
+   - **Framework preset:** None
+   - **Build command:** deixe vazio
+   - **Build output directory:** `/`
+9. Salve e publique.
+
+Como o site é estático, não precisa instalar dependências nem rodar build.
+
+### Opção 2 — Direct Upload
+Boa para publicar rápido sem Git.
+
+1. No painel da Cloudflare, vá em **Workers & Pages**.
+2. Clique em **Create application**.
+3. Escolha **Pages**.
+4. Selecione **Upload assets** / **Direct Upload**.
+5. Envie a pasta do projeto ou os arquivos estáticos.
+6. Publique.
+
+## Formulário de contato
+
+O formulário foi configurado para abrir o **WhatsApp com a mensagem já preenchida** com os dados do visitante.
+
+Vantagens:
+- não precisa backend
+- custo zero
+- reduz atrito
+- mantém o foco em conversão para WhatsApp
+
+## Personalizações recomendadas
+
+Troque estes pontos antes da versão final:
+
+- número do WhatsApp
+- e-mail
+- região de atendimento
+- depoimentos reais
+- logos de clientes, se existirem
+- resultados / provas reais
+- domínio final
+- texto institucional final, caso queira deixar mais próximo da sua operação
+
+## Observações
+
+- O site já está responsivo e otimizado para celular.
+- O visual segue a linha do brand book: sóbrio, elegante, técnico e premium.
+- As animações são leves e não dependem de bibliotecas externas.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://SEU-DOMINIO.com/sitemap.xml
